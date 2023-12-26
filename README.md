@@ -77,7 +77,7 @@
 
 ## Platforms, Applications and Tools
 
-
+- [Glamorous Toolkit](https://github.com/feenkcom/gtoolkit) Glamorous Toolkit is the Moldable Development environment. It empowers you to make systems explainable through experiences tailored for each problem.
 - [https://github.com/toeverything/AFFiNE] AFFiNE: Website - GitHub.
 - [https://github.com/AppFlowy-IO/AppFlowy] AppFlowy: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. Website - GitHub.
 - [https://github.com/mattermost/focalboard] Focalboard: Website - GitHub.
