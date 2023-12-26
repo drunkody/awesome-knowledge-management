@@ -77,6 +77,17 @@
 
 ## Platforms, Applications and Tools
 
+
+- [https://github.com/toeverything/AFFiNE] AFFiNE: Website - GitHub.
+- [https://github.com/AppFlowy-IO/AppFlowy] AppFlowy: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. Website - GitHub.
+- [https://github.com/mattermost/focalboard] Focalboard: Website - GitHub.
+- Logseq: Website - GitHub.
+- Standard Notes: Website - GitHub.
+- TiddlyWiki: Website - GitHub.
+- Trilium Notes: GitHub.
+
+- [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
+
 - [Contextualise](https://contextualise.dev/) - A tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources &mdash; structured thought.
 - [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 - [KgBase](https://kgbase.com/) - A tool to build your own knowledge graphs without writing code.
